@@ -70,11 +70,11 @@
 
 
 
-## 8.Octo
+## 8.[Octo](https://arxiv.org/html/2405.12213?_immersive_translate_auto_translate=1)
 
 ![image-20250113195637912](./pictures/image8.jpg)
 
-## 9.π0
+## 9.[π0](https://arxiv.org/html/2410.24164?_immersive_translate_auto_translate=1)
 
 ![image-20250113202131691](./pictures/image9.jpg)
 
