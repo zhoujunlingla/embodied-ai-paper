@@ -56,5 +56,25 @@
 
 ​	DinoV2 是一种视觉编码器，擅长提取 **低级细节和空间信息**
 
-​    SigLIP 是一种视觉-语言预训练模型，专注于提取图像的 **高级语义特征**。
+​    SigLIP 是一种视觉-语言预训练模型，专注于提取图像的 **高级语义特征**
+
+## 6.[Diffusion Policy](https://ar5iv.labs.arxiv.org/html/2303.04137v4?_immersive_translate_auto_translate=1)
+
+![image-20250113190420976](./pictures/image6.jpg)
+
+
+
+## 7.[RDT-1B](https://arxiv.org/html/2410.07864?_immersive_translate_auto_translate=1)
+
+![image-20250113192226987](./pictures/image7.jpg)
+
+
+
+## 8.Octo
+
+![image-20250113195637912](./pictures/image8.jpg)
+
+## 9.π0
+
+![image-20250113202131691](./pictures/image9.jpg)
 
