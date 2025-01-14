@@ -86,3 +86,13 @@
 
 ![image-20250114113514670](./pictures/image11.jpg)
 
+## 12. [RT-H](https://arxiv.org/html/2403.01823?_immersive_translate_auto_translate=1)
+
+![image-20250114143502671](./pictures/image12.jpg)
+
+
+
+## 13. [EQA](https://arxiv.org/html/2403.15941?_immersive_translate_auto_translate=1)
+
+![image-20250114160119743](./pictures/image13.jpg)
+
