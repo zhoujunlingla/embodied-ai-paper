@@ -78,3 +78,11 @@
 
 ![image-20250113202131691](./pictures/image9.jpg)
 
+## 10. [ROSIE](https://ar5iv.labs.arxiv.org/html/2302.11550?_immersive_translate_auto_translate=1)
+
+![image-20250114105305521](./pictures/image10.jpg)
+
+## 11. [VoxPoser](https://ar5iv.labs.arxiv.org/html/2307.05973?_immersive_translate_auto_translate=1)
+
+![image-20250114113514670](./pictures/image11.jpg)
+
